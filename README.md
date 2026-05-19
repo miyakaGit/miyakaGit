@@ -37,5 +37,5 @@ I enjoy learning how systems work, identifying vulnerabilities, and improving my
 ---
 
 ## 📫 Contact
-Email: your-email@example.com  
-LinkedIn: (add later)
+Email: miyakaatienza2003@gmail.com
+LinkedIn: https://www.linkedin.com/in/miyaka-atienza-a0a835385/

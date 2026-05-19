@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Miyaka 👋
 
-<!--
-**miyakaGit/miyakaGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am an Information Technology graduate with a strong interest in cybersecurity and hands-on experience from Hack The Box labs.
 
-Here are some ideas to get you started:
+I enjoy learning how systems work, identifying vulnerabilities, and improving my technical skills through practical cybersecurity training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+- Linux Basics (file system, commands, permissions)
+- Networking Fundamentals (TCP/IP, ports, services)
+- Cybersecurity Basics (enumeration, exploitation concepts)
+- Tools: Nmap (basic)
+
+---
+
+## 🧪 Hands-on Practice
+- Hack The Box (Beginner Machines: Meow, Fawn, Dancing)
+- Learning penetration testing workflow through labs
+- Practicing Linux and network enumeration
+
+---
+
+## 🎯 Goals
+- Become a SOC Analyst or IT Security Analyst
+- Improve penetration testing skills
+- Gain real-world IT experience
+
+---
+
+## 📚 Currently Learning
+- Cybersecurity fundamentals
+- Python for security scripting
+- TryHackMe / Hack The Box labs
+
+---
+
+## 📫 Contact
+Email: your-email@example.com  
+LinkedIn: (add later)

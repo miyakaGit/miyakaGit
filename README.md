@@ -1,41 +1,41 @@
-# Hi, I'm Miyaka 👋
+# Hi there, I'm Miyaka Atienza 👋
 
-## 👨‍💻 About Me
-I am an Information Technology graduate with a strong interest in cybersecurity and hands-on experience from Hack The Box labs.
+🎓 BS Information Technology Graduate
 
-I enjoy learning how systems work, identifying vulnerabilities, and improving my technical skills through practical cybersecurity training.
+🔐 Aspiring Cybersecurity Analyst with hands-on experience in Dynamic Application Security Testing (DAST), web application security, and vulnerability assessment.
 
----
+## 🛡️ Skills
+- Dynamic Application Security Testing (DAST)
+- OWASP Top 10
+- Invicti
+- Burp Suite
+- Azure DevOps
+- Nmap
+- Nessus
+- Wireshark
+- Kali Linux
+- HTTP/HTTPS Analysis
 
-## 🧠 Skills
-- Linux Basics (file system, commands, permissions)
-- Networking Fundamentals (TCP/IP, ports, services)
-- Cybersecurity Basics (enumeration, exploitation concepts)
-- Tools: Nmap (basic)
+## 💻 Technologies
+- HTML
+- CSS
+- Bootstrap
+- PHP
+- JavaScript
+- jQuery
+- MySQL
+- Git & GitHub
 
----
+## 📂 Featured Projects
+- 🖥️ Server Monitoring System
+- 📖 Kapampangan–Tagalog–English Electronic Dictionary
+- 🔒 Cybersecurity Labs & Learning
 
-## 🧪 Hands-on Practice
-- Hack The Box (Beginner Machines: Meow, Fawn, Dancing)
-- Learning penetration testing workflow through labs
-- Practicing Linux and network enumeration
+## 🌱 Currently Learning
+- Web Application Penetration Testing
+- API Security
+- Secure Coding Practices
 
----
-
-## 🎯 Goals
-- Become a SOC Analyst or IT Security Analyst
-- Improve penetration testing skills
-- Gain real-world IT experience
-
----
-
-## 📚 Currently Learning
-- Cybersecurity fundamentals
-- Python for security scripting
-- TryHackMe / Hack The Box labs
-
----
-
-## 📫 Contact
-Email: miyakaatienza2003@gmail.com
-LinkedIn: https://www.linkedin.com/in/miyaka-atienza-a0a835385/
+## 📫 Connect with Me
+- LinkedIn: linkedin.com/in/miyaka-atienza-a0a835385
+- GitHub: github.com/miyakaGit

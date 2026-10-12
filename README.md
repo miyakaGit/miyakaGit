@@ -39,3 +39,4 @@
 ## 📫 Connect with Me
 - LinkedIn: linkedin.com/in/miyaka-atienza-a0a835385
 - GitHub: github.com/miyakaGit
+- Bugcrowd: https://bugcrowd.com/h/boomzkik 
